@@ -1,3 +1,3 @@
 # timer
 
--Create easy timer with help Javascript
+-Created a easy timer with help Javascript
